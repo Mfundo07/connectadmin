@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "738027451162",
+    "firebase_url": "https://codetribeconnect.firebaseio.com",
+    "project_id": "codetribeconnect",
+    "storage_bucket": "codetribeconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738027451162:android:6d366512023f7ad6",
+        "android_client_info": {
+          "package_name": "com.example.android.codetribeconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738027451162-9ogs4dg8e57tb23g072t1aud0s0m2r18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.codetribeconnect",
+            "certificate_hash": "523ac05eba0205816d1672c0f9f12afbea6a4b7e"
+          }
+        },
+        {
+          "client_id": "738027451162-h9pma0fpbjfpmfm09v1kr3f3nt0opto4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1unYyvyrpH_uHxOLsrbDvkD4d1TpoVMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738027451162-h9pma0fpbjfpmfm09v1kr3f3nt0opto4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738027451162:android:aa3eb27a3e8b2131",
+        "android_client_info": {
+          "package_name": "com.example.android.ctconnectadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738027451162-ffgdho2or3bmk521rtus4mmf0tkn3qnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.ctconnectadmin",
+            "certificate_hash": "523ac05eba0205816d1672c0f9f12afbea6a4b7e"
+          }
+        },
+        {
+          "client_id": "738027451162-h9pma0fpbjfpmfm09v1kr3f3nt0opto4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1unYyvyrpH_uHxOLsrbDvkD4d1TpoVMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738027451162-h9pma0fpbjfpmfm09v1kr3f3nt0opto4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
